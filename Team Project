@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Eloheh - Our Healthcare Services</title>
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+            color: #222;
+        }
+        h1 {
+            color: #004d4d;
+            font-family: 'Trebuchet MS', sans-serif;
+        }
+        h2 {
+            color: darkslateblue;
+            font-size: 22px;
+        }
+        .emphasis {
+            font-style: italic;
+            color: crimson;
+        }
+        .service-title {
+            font-weight: bold;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Our Services</h1>
+
+    <p>At Eloheh, we go beyond products to provide <span class="emphasis">comprehensive healthcare services</span> that promote wellness, prevention, and personalized care. Our team of specialists works to deliver <strong>cutting-edge digital health support</strong> and <em>compassionate human care</em>.</p>
+
+    <h2>Featured Services</h2>
+
+    <ol>
+        <li><span class="service-title">24/7 Telehealth Access</span> – Speak with certified professionals anytime, anywhere.</li>
+        <li><span class="service-title">Personalized Wellness Coaching</span> – Tailored advice based on your health data and goals.</li>
+        <li><span class="service-title">Health Data Analysis</span> – Receive reports and insights derived from your wearable device.</li>
+    </ol>
+
+    <h2>Why Choose Eloheh?</h2>
+
+    <ul>
+        <li>Empathetic care from trained professionals</li>
+        <li>Integrated digital tools that support your health journey</li>
+        <li>Fast, secure, and accessible service for everyone</li>
+    </ul>
+
+    <img src="https://www.westlafayette.in.gov/home/showpublishedimage/2728/638036095028030000" alt="Telehealth service image" width="400">
+
+    <p>Want to know how our community supports wellness? Check out the 
+        <a href="https://www.westlafayette.in.gov/our-city/wellness-center" target="_blank">West Lafayette Wellness Center</a>.
+    </p>
+
+    <p><a href="Eloheh_Service_Catalog.pdf" download>Download our full service catalog</a></p>
+
+    <p><a href="mailto:yourname@eloheh.com">Contact me</a> if you have questions about any of our services.</p>
+
+    <hr>
+    <p><small><script>document.write("Last modified: " + document.lastModified);</script></small></p>
+
+</body>
+</html>
